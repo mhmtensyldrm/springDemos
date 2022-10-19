@@ -10,7 +10,7 @@ public class Main {
 		
 		ICustomerService customerService = context.getBean("service",ICustomerService.class);
 		
-		customerService.Add();
+		customerService.add();
 	}
 	
 }

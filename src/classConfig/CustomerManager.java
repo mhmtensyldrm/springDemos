@@ -1,4 +1,4 @@
-package springIntro;
+package classConfig;
 
 public class CustomerManager implements ICustomerService{
 	
@@ -12,7 +12,6 @@ public class CustomerManager implements ICustomerService{
 	
 	public void add() {
 		//is kurallari
-		
 		customerDal.add();
 	}
 	

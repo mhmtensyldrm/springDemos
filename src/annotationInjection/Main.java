@@ -12,7 +12,7 @@ public class Main {
 		
 		ICustomerDal customerDal = context.getBean("database",ICustomerDal.class);
 		
-		customerDal.Add();
+		customerDal.add();
 	}
 
 }
