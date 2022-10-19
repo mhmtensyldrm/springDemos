@@ -1,5 +1,3 @@
-## Java OOP Demos
+## Spring Demos
 
-Simple Structures for Abstract Classes and Method Overriding are at Abstraction Folder.
-
-Simple Structures for Interfaces are at Interface Folder.
+Simple Structures for Dependency Injection, IoC and Constructor Injection
